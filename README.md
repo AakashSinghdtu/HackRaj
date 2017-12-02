@@ -28,6 +28,8 @@ We are trying to make an app, which is based on Beacon technology that can act a
 
 Aakash Singh
 
+Akshay Jain
+
 Rishabh Dev
 
 Tushar Mann
